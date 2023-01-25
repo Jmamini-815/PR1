@@ -1,0 +1,13 @@
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.vbproj.AssemblyReference.cache
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.Resources.resources
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.cache
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
+C:\Users\user\VS_Projects\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\user\VS_Projects\Calendar\bin\Debug\Calendar.exe
+C:\Users\user\VS_Projects\Calendar\bin\Debug\Calendar.pdb
+C:\Users\user\VS_Projects\Calendar\bin\Debug\Calendar.xml
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.exe
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.xml
+C:\Users\user\VS_Projects\Calendar\obj\Debug\Calendar.pdb
